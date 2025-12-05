@@ -20,4 +20,4 @@ jobs:
         python-version: '3.10'
     
     - name: Запускаем программу
-      run: OZONAPIACSESSORICA.py
+      run: python OZONAPIACSESSORICA.py
